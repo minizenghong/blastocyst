@@ -1,2 +1,3 @@
-# blastocyst
-A HTML application supports blastocyst transfer in single blastocyst FET cycles
+# SingleBlastoFET
+SingleBlastoFET is an offline HTML application supports blastocyst transfer in single blastocyst FET cycles.
+Clinicians can compare two to five candidate embryos by entering developmental day, expansion stage, ICM grade, and TE grade for each embryo. For each candidate embryo, the application displays observed clinical pregnancy rate, live birth rate, miscarriage rate, Wilson confidence intervals, evidence level (based on sample size), adjusted estimates from multivariable regression, and the model source. The application also provides a recommended embryo for transfer based on the highest adjusted live birth probability, while emphasizing that the final decision should incorporate clinical judgment.
